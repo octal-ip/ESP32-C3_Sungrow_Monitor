@@ -32,11 +32,11 @@ The Sungrow_Grafana_Dashboard.json file can be imported into Grafana to display 
   
   
 ### Credits:
-[4-20ma for ModbusMaster](https://github.com/4-20ma/ModbusMaster)
-[RobTillaart for RunningAverage](https://github.com/RobTillaart/RunningAverage)
-[JAndrassy for TelnetStream](https://github.com/jandrassy/TelnetStream)
-[Nick O'Leary for PubSubClient](https://github.com/knolleary/pubsubclient)
-[Tobias Schürg for InfluxDB Client](https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino/)
+[4-20ma for ModbusMaster](https://github.com/4-20ma/ModbusMaster)  
+[RobTillaart for RunningAverage](https://github.com/RobTillaart/RunningAverage)  
+[JAndrassy for TelnetStream](https://github.com/jandrassy/TelnetStream)  
+[Nick O'Leary for PubSubClient](https://github.com/knolleary/pubsubclient)  
+[Tobias Schürg for InfluxDB Client](https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino/)  
   
   
 ### Release notes:
